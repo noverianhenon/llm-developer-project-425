@@ -40,6 +40,18 @@ cd llm-developer-project-425
 
 </details>
 
-## О Хекслете
 
-[Хекслет](https://ru.hexlet.io/) — школа программирования: авторские программы обучения с практикой, поддержкой наставников и реальными проектами, которые остаются в резюме. Этот репозиторий — один из таких проектов.
+## Роли системного аккаунта (SA)
+
+* functions.functionInvoker
+* serverless.mcpGateways.invoker
+* lockbox.payloadViewer
+* ai.languageModels.user
+* ydb.editor
+
+
+## Используемые секреты
+
+* ydb-endpoint
+* ydb-database
+
